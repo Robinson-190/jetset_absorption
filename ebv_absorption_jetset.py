@@ -1,7 +1,4 @@
-
-__author__ = "Andrea Tramacere"
-
-
+# Author: Joshua robinson, directly adapted from work by Andrea Tramacere
 
 from scipy import interpolate
 
